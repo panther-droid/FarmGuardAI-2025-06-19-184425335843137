@@ -1,0 +1,9 @@
+[package]
+name = "farmguard_ai"
+version = "0.1.0"
+description = "AI chatbot for Kenyan farmers"
+repository = ""
+
+[dependencies]
+base = "0.14.9"
+llm = "1.0.0"
